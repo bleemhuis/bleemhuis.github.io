@@ -1,9 +1,14 @@
-[{
-"relation": ["delegate_permission/common.handle_all_urls"],
-"target": {
-"namespace": "android_app",
-"package_name": "de.fiduciagad.securego.wl.test",
-"sha256_cert_fingerprints":
-["EA:61:17:54:4E:06:3A:24:29:D0:6C:14:64:5C:C5:B0:27:1B:FB:CB:B7:C6:B3:83:ED:E2:52:27:FA:24:D8:C5"]
-}
-}]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.fiduciagad.securego.wl.test",
+      "sha256_cert_fingerprints": [
+        "EA:61:17:54:4E:06:3A:24:29:D0:6C:14:64:5C:C5:B0:27:1B:FB:CB:B7:C6:B3:83:ED:E2:52:27:FA:24:D8:C5"
+      ]
+    }
+  }
+]
